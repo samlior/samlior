@@ -8,4 +8,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samlior&layout=compact)](https://github.com/samlior)
 
-## ☭ Proletarier aller Länder, vereinigt euch!
+### ☭ Proletarier aller Länder, vereinigt euch!
