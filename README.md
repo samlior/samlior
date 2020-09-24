@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blockchain
-- 🌱 I’m currently learning Erlang
+- 🔭 I’m currently working on GXChain
+- 🌱 I’m currently learning Graphene
 - 📫 How to reach me: samlior@foxmail.com
 
 [![samlior's github stats](https://github-readme-stats.vercel.app/api?username=samlior&count_private=true&show_icons=true)](https://github.com/samlior)
